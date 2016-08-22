@@ -23,4 +23,6 @@ sudo apt-get update
 sudo apt-get install slingscold
 
 ```  
-[类似教程](http://www.ubuntukylin.com/ukylin/forum.php?mod=viewthread&tid=19489)
+---
+[类似教程1](http://www.ubuntukylin.com/ukylin/forum.php?mod=viewthread&tid=19489)  
+[类似教程2](http://blog.csdn.net/cywosp/article/details/41612607)
