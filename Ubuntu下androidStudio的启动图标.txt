@@ -18,3 +18,5 @@ sudo chmod +x /usr/share/applications/android_studio.desktop
 之后，使用命令打开applications文件夹：
 sudo nautilus /usr/share/applications
 找到android_studio.desktop文件，把文件拖动到Launcher条上。
+
+其他软件同样适用，如eclipse
