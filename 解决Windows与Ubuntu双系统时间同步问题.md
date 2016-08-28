@@ -28,3 +28,7 @@ sudo gedit /etc/default/rcS
 ```
 
 按Ctrl+F调出查找，找到UTC=yes这一行，改成UTC=no，保存即可，时间修改立即生效。这样就可以解决Windows与Ubuntu双系统时间同步问题了
+
+---  
+以上方法如果无法查找到utc项，如ubuntu16.04，（其他版本没有试过，但16.04亲测可用）就直接在终端输入：  
+`sudo hwclock --systohc --localtime`
